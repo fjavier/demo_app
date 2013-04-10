@@ -1,0 +1,10 @@
+Este proyecto es la Segunda Demostracion de Aplicacion Ruby On rails. del libro
+http://ruby.railstutorial.org/chapters/
+El proyecto Deployado se encuentra en: 
+http://demo-rails.herokuapp.com
+para Gestionar usuarios digite /users
+para Gestionar Post Digite /microposts despues del .com
+ahi podra relacionar un usuario a un micropost.
+Luego se le dara continuidad eliminando las debilidades mediante
+se vaya avanzando en la lectura y comprension del Libro.
+
